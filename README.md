@@ -1,9 +1,6 @@
 # WhatsApp-Pay.
 
-# Description
-
-# Current State
-
+Description
 
 # Overview and Summary
 
